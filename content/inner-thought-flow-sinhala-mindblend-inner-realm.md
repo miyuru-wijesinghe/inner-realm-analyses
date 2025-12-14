@@ -1,10 +1,3 @@
-# Restoration Content for inner-thought-flow-sinhala-mindblend-inner-realm.md
-
-It appears the content on GitHub was replaced with `dfdf`, which is causing the analysis not to display. The system requires a specific format (Headers, Line X, etc.) to parsing the data correctly.
-
-Please **replace** the content of `inner-thought-flow-sinhala-mindblend-inner-realm.md` on your GitHub repository with the following valid content:
-
-```markdown
 Song Title: inner-thought-flow-sinhala-mindblend-inner-realm
 Overview: This ethereal composition represents a profound exploration of consciousness at the intersection of Eastern philosophical wisdom and contemporary electronic soundscapes. The track serves as a sonic meditation on the fluid nature of thought, blending traditional Sinhala contemplative practices with modern digital synthesis to create a space where ancient wisdom meets cutting-edge sound design. Through its layered textures and evolving harmonies, it invites listeners to experience the seamless flow between individual thought patterns and universal consciousness.
 Languages: Sinhala, English
@@ -44,13 +37,3 @@ D. Core Meaning (Sinhala):
 
 E. Song Connection:
 [Add connection here...]
-```
-
-## Why this is needed
-
-The parser expects specific keys to identify the content:
-- `Overview:` (Starts the overview section)
-- `Languages:` (Ends the overview section)
-- `Line X:` (Starts a new analysis block)
-
-If these are missing (like in "dfdf"), the parser returns empty data, and the website hides the analysis section.

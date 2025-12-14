@@ -1,7 +1,3 @@
-Song Title: inner-thought-flow-sinhala-mindblend-inner-realm
-Overview: This ethereal composition represents a profound exploration of consciousness at the intersection of Eastern philosophical wisdom and contemporary electronic soundscapes. The track serves as a sonic meditation on the fluid nature of thought, blending traditional Sinhala contemplative practices with modern digital synthesis to create a space where ancient wisdom meets cutting-edge sound design. Through its layered textures and evolving harmonies, it invites listeners to experience the seamless flow between individual thought patterns and universal consciousness.
-Languages: Sinhala, English
-
 Line 1:
 A. Sinhala:
 සිතුවිලි ප්‍රවාහයේ මායාවේ බිංදුවක් වැනි

@@ -17,19 +17,3 @@ D. Core Meaning (Sinhala):
 
 E. Song Connection:
 This opening metaphor establishes the track's philosophical foundation, creating a conceptual bridge to the [Verse] sections where electronic textures gradually emerge, mirroring the arising and passing of thoughts. The stream imagery foreshadows the [Chorus] section's exploration of deeper consciousness layers, where individual droplets merge into oceanic awareness.
-
-Line 2:
-A. Sinhala:
-සිංහල මනසේ රහසිගත උල්පත් වීම්
-
-B. English Translation:
-Sinhala mind's secret emergences
-
-C. Core Meaning (English):
-[Add analysis here...]
-
-D. Core Meaning (Sinhala):
-[Add analysis here...]
-
-E. Song Connection:
-[Add connection here...]

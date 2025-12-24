@@ -1,7 +1,3 @@
-Complete Line-by-Line Explanation with Song-Specific Examples
-ගීතයට අදාළ උදාහරණ සමඟ සම්පූර්ණ විස්තරය
-
-[INTRO SECTION]
 Line 1:
 Sinhala: 
 "දැන ගත් බව නොව එහි හට ගත් හැටි ඉස්මතු වේ නම්"
